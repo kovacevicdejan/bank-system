@@ -1,7 +1,7 @@
 # bank-system
-- Designed a database which represents a bank model with users, accounts and transactions, using MySQL Workbench
-- Implemented three subsystems and a server that comunicate via Java Messaging Service
-- Created a console application for sending client http request to the server using the Retrofit API
+- Designed a database which represents a bank model with users, accounts and transactions, using MySQL Workbench.
+- Implemented three subsystems and a server for executing REST requests from clients in Java that comunicate via Java Messaging Service.
+- Created a console application in Java for sending http request to the server using the Retrofit API
 
 ## Server
 - Receives http requests from client application and forwards them to subsystems for executing
